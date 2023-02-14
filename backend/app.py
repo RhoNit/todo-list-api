@@ -8,6 +8,7 @@ app.config['SQLALCHEMY_TRACK_MODIFICATIONS'] = False
 
 db = SQLAlchemy(app)
 
+
 # Todo model
 class Todo(db.Model):
     id = db.Column(db.Integer, primary_key=True)
@@ -16,6 +17,7 @@ class Todo(db.Model):
 
 
 # API section
+# root API to list all the created todo resources
 @app.route('/')
 def root():
     todo_list = Todo.query.all()
