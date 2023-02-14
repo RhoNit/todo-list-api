@@ -125,7 +125,7 @@ GET /
 
 ![](./todo_app_preview.png "App Preview")
 <br>
-![](./sqlite-todo.png "DB Table")
+
 
 ## 🎯 Bullseye (trying to build a Docker Image and push that to Docker Hub)
 - Trying to Dockerize the application
