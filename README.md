@@ -122,7 +122,7 @@ GET /
 <br>
 
 ## 🛢️ Database Schema
-![](./sqlite-todos.png "DB Table")
+![](./sqlite-todo.png "DB Table")
 <br>
 
 ## 🎯 Bullseye (trying to build a Docker Image and push that to Docker Hub)
