@@ -121,8 +121,10 @@ GET /
 ```
 <br>
 
-## 🛢️ Database Schema
+## 🛢️ Database Schema and App preview
 ![](./sqlite-todo.png "DB Table")
+<hr>
+![](./todo_app_preview.png "App Preview")
 <br>
 
 ## 🎯 Bullseye (trying to build a Docker Image and push that to Docker Hub)
